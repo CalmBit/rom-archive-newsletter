@@ -1,0 +1,43 @@
+baseURL = "https://calmbit.github.io/rom-archive-newsletter/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Rom Archive Newsletter"
+theme = "cupper-hugo-theme"
+enableGitInfo = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
+  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  dateFormat = "2006-01-02"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 2
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
