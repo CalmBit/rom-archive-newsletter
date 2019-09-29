@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Rom Archive Newsletter</title>
+    <link>https://calmbit.github.io/rom-archive-newsletter/</link>
+    <description>Recent content in Home on Rom Archive Newsletter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://calmbit.github.io/rom-archive-newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start</title>
+      <link>https://calmbit.github.io/rom-archive-newsletter/start/</link>
+      <pubDate>Sat, 28 Sep 2019 20:26:34 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/rom-archive-newsletter/start/</guid>
+      <description>Press START to begin.</description>
+    </item>
+    
+  </channel>
+</rss>

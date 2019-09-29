@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Rom Archive Newsletter"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
+publishDir = "docs"
 
 [taxonomies]
   tag = "tags"
