@@ -15,8 +15,8 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+  description = "More ROMs, More Power."
+  homeMetaContent = "A semi-weekly publication detailing ROM files and their unique histories."
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   dateFormat = "2006-01-02"
 
